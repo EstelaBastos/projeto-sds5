@@ -8,7 +8,7 @@
 
 ## Tecnologias
 
-Esse projeto utiliza [PostgreSQL](https://www.postgresql.org/), [Spring Boot](https://spring.io/projects/spring-boot) and [React](https://pt-br.reactjs.org/).
+Esse projeto utiliza [PostgreSQL](https://www.postgresql.org/), [Spring Boot](https://spring.io/projects/spring-boot) e [React](https://pt-br.reactjs.org/).
 
 Dependências necessárias para execução do projeto: 
 
