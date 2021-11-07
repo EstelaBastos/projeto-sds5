@@ -2,9 +2,7 @@
 
 > Aplicação desenvolvida durante a Semana Spring React da DevSuperior.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1ece050-9d81-47a0-96d8-2c9ff6877497/deploy-status)](https://app.netlify.com/sites/dsvendas-eomb/deploys)  
-
-### 🚧 Projeto em construção... 🚧
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1ece050-9d81-47a0-96d8-2c9ff6877497/deploy-status)](https://app.netlify.com/sites/dsvendas-eomb/deploys)
 
 ## Tecnologias
 
